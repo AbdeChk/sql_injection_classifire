@@ -1,0 +1,4 @@
+cd C:\Users\xocek\OneDrive\Desktop\sql
+
+logisticregression with 107 000 exemple acc 97% 
+labels 50 50 witout featuer enginirng and hyperparamter 
