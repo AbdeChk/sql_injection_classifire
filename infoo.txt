@@ -1,0 +1,3 @@
+Logistic regression  with 107 000 exemple acc 97% 
+Labels  are representative  
+No featuer enginirng and hyperparamter tuning  
